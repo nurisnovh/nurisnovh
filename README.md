@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nurisnovh
-- 👀 I’m interested in Ethical Hacking and Web Developer
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Html and Css
-- 💞️ I’m looking to collaborate on Hacking and Web Developer
+- 💞️ I’m looking to collaborate with frontend Developers 
 - 📫 How to reach me nurisnoah@gmail.com
 
 <!---
